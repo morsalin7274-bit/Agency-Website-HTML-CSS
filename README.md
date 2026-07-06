@@ -66,12 +66,6 @@ Agency-Website/
 
 > <img src="./assets/img/full website ss.png" alt="">
 
-```
-screenshots/
-├── homepage.png
-├── services.png
-└── contact.png
-```
 
 ---
 
@@ -119,25 +113,12 @@ This project helped practice:
 
 ## ⚙️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/agency-website.git
-```
-
 Open the project folder:
 
 ```bash
-cd agency-website
+agency-website : https://github.com/morsalin7274-bit/Agency-Website-HTML-CSS
 ```
 
-Run the project by opening:
-
-```text
-index.html
-```
-
----
 
 ## 🤝 Contributing
 
@@ -153,7 +134,7 @@ Contributions, issues, and feature requests are welcome.
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the Morsalinur Rahman License.
 
 ---
 
