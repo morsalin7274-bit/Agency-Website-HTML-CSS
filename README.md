@@ -6,7 +6,7 @@ A modern, fully responsive **Agency Website** built using **HTML5** and **CSS3**
 
 ## 🚀 Live Demo
 
-🔗 **Demo:** https://your-demo-link.com
+🔗 **Demo:** https://morsalin7274-bit.github.io/Agency-Website-HTML-CSS/
 
 ---
 
@@ -64,7 +64,7 @@ Agency-Website/
 
 ## 📸 Screenshots
 
-> Add your project screenshots here.
+> <img src="./assets/img/full website ss.png" alt="">
 
 ```
 screenshots/
