@@ -193,6 +193,7 @@ header nav ul li a {
 /* Avatar Section */
 .profile {
     display: flex;
+    align-items: center;
     gap: 10px;
 }
 
@@ -200,7 +201,6 @@ header nav ul li a {
     position: relative;
     width: 64px;
     height: 64px;
-    flex-shrink: 0;
 }
 
 .avatar-img {
